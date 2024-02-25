@@ -1,0 +1,12 @@
+.inicio {
+  
+  background-color: blue;
+  height: 80vh;
+  color: white;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+}
